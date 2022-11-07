@@ -5,6 +5,6 @@ ans = int(real)
 scale = float(ans / 48)
 cent = scale * 2.54
 print(scale), print('Inches')
-print(cent), print('Centimetr3s')
+print(cent), print('Centimetres')
 
 # Output in both inches and centimeters @ 1:48 scale of input (inches)
